@@ -1,19 +1,16 @@
 # Next.js + Shadcn + Supabase Auth Starter Kit
 
-- [Next.js 15](https://nextjs.org/) (App Router)
+All setu is done based on the [supabase documentation](https://supabase.com/docs/guides/auth/server-side/nextjs)
+
+- [Next.js 15](https://nextjs.org/)
 - [Tailwind CSS 4](https://tailwindcss.com/)
-- [shadcn/ui](https://ui.shadcn.com/) components
-- [Supabase](https://supabase.com/) for authentication
+- [shadcn/ui](https://ui.shadcn.com/)
+- [Supabase](https://supabase.com/)
 - TypeScript
 
 ### Environment Setup
 
 1. Clone this repository
-
-   ```bash
-   git clone https://github.com/yourusername/nextjs-shadcn-supabase-auth-starter.git
-   cd nextjs-shadcn-supabase-auth-starter
-   ```
 
 2. Install dependencies
 
@@ -46,4 +43,15 @@
    bun dev
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## More Starter Templates
+
+- [React Supabase Auth Template 🌟](https://github.com/mmvergara/react-supabase-auth-template)
+- [React ShadCN Supabase Auth Template 🌟](https://github.com/mmvergara/react-supabase-shadcn-auth-template)
+- [NextJs MongoDB Prisma Auth Template 🌟](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
+- [NextJs ShadCN Supabase Auth Template 🌟](https://github.com/mmvergara/nextjs-shadcn-supabase-auth-starter)
+- [NextJs Discord Bot Template 🌟](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
+- [React Firebase🔥 Auth Template 🌟](https://github.com/mmvergara/react-firebase-auth-template)
+- [Golang Postgres Auth Template](https://github.com/mmvergara/golang-postgresql-auth-template)
+- [Vue Golang PostgresSql Auth Template](https://github.com/mmvergara/vue-golang-postgresql-auth-starter-template)
+- [Vue Supabase Auth Template](https://github.com/mmvergara/vue-supabase-auth-starter-template)
+- [Remix Drizzle Auth Template](https://github.com/mmvergara/remix-drizzle-auth-template)
