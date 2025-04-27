@@ -1,6 +1,6 @@
 # Next.js + Shadcn + Supabase Auth Starter Kit
 
-All setu is done based on the [supabase documentation](https://supabase.com/docs/guides/auth/server-side/nextjs)
+All setup is done based on the [supabase documentation](https://supabase.com/docs/guides/auth/server-side/nextjs)
 
 - [Next.js 15](https://nextjs.org/)
 - [Tailwind CSS 4](https://tailwindcss.com/)
