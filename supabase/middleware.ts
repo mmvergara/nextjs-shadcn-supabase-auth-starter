@@ -41,6 +41,8 @@ export async function updateSession(request: NextRequest) {
 
   if (
     !user &&
+    // Public pages
+    !request.nextUrl.pathname.startsWith("/") &&
     !request.nextUrl.pathname.startsWith("/login") &&
     !request.nextUrl.pathname.startsWith("/auth")
   ) {

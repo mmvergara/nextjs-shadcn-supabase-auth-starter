@@ -2,12 +2,17 @@ import { Label } from "@/components/ui/label";
 import { login, signup } from "./action";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export default function LoginPage() {
   return (
     <div className="flex min-h-screen items-center justify-center p-4">
       <Card className="w-full max-w-md">
+        <CardHeader className="text-center">
+          <CardTitle className="text-2xl font-bold">
+            NextJs Shadcn Supabase Auth Starter
+          </CardTitle>
+        </CardHeader>
         <CardContent className="space-y-6 p-6">
           <form className="flex flex-col gap-4">
             <div className="space-y-2">
