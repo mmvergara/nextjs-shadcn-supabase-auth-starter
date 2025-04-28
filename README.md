@@ -47,8 +47,8 @@ All setup is done based on the [supabase documentation](https://supabase.com/doc
 
 - [React Supabase Auth Template 🌟](https://github.com/mmvergara/react-supabase-auth-template)
 - [React ShadCN Supabase Auth Template 🌟](https://github.com/mmvergara/react-supabase-shadcn-auth-template)
-- [NextJs MongoDB Prisma Auth Template 🌟](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [NextJs ShadCN Supabase Auth Template 🌟](https://github.com/mmvergara/nextjs-shadcn-supabase-auth-starter)
+- [NextJs MongoDB Prisma Auth Template 🌟](https://github.com/mmvergara/nextjs-mongodb-prisma-auth-template)
 - [NextJs Discord Bot Template 🌟](https://github.com/mmvergara/nextjs-discord-bot-boilerplate)
 - [React Firebase🔥 Auth Template 🌟](https://github.com/mmvergara/react-firebase-auth-template)
 - [Golang Postgres Auth Template](https://github.com/mmvergara/golang-postgresql-auth-template)
