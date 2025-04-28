@@ -1,8 +1,8 @@
-import { createSupabaseServerClient } from "@/supabase/server";
 import { redirect } from "next/navigation";
 import { logout } from "../login/action";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
+import { createSupabaseServerClient } from "@/lib/supabase/server";
 
 export default async function PrivatePage() {
   const supabase = await createSupabaseServerClient();
